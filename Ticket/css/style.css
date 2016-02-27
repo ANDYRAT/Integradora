@@ -76,7 +76,7 @@ ul.dropdown-menu { border: none }
 .head-section .nav li.active ul.dropdown-menu li a:hover,
 .head-section .nav li.active ul.dropdown-menu li.active a {
     color: #fff;
-    background-color: #48cfad;
+    background-color: #016587;
     -webkit-transition: all .3s ease;
     -moz-transition: all .3s ease;
     -ms-transition: all .3s ease;
@@ -87,7 +87,7 @@ ul.dropdown-menu { border: none }
 .head-section .navbar-default .navbar-nav > .open > a:hover,
 .head-section .navbar-default .navbar-nav > .open > a:focus {
     color: #fff;
-    background-color: #48cfad;
+    background-color: #016587;
     -webkit-transition: all .3s ease;
     -moz-transition: all .3s ease;
     -ms-transition: all .3s ease;
@@ -791,7 +791,7 @@ ul.about-flex-slides { margin-left: 0 }
     width: 15px;
 }
 .breadcrumbs {
-    background: #34495e;
+    background: #016587;
     color: #fff;
     padding: 30px 0;
     margin-bottom: 40px;
@@ -1208,7 +1208,7 @@ ul.tag li a {
 }
 /*footer*/
 .footer {
-    background: #34495e;
+    background: #016587;
     color: #fff;
     padding: 50px 0;
     display: inline-block;
@@ -1280,7 +1280,7 @@ ul.tag li a {
     transition: all .3s ease;
 }
 .social-link-footer li a:hover {
-    background: #48cfad;
+    background: #FF74B1;
     -webkit-transition: all .3s ease;
     -moz-transition: all .3s ease;
     -ms-transition: all .3s ease;
@@ -2935,7 +2935,7 @@ p { text-align: left }
 
 #back-to-top:hover {
 
-    background-color:#48cfad;
+    background-color:#FF74B1;
     -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
     filter: alpha(opacity=80);
     opacity:0.8;
